@@ -1,0 +1,34 @@
+body {
+
+    background-color: #181f25;
+    margin: 0px;
+}
+
+h1 {
+    font-family: Raleway, Arial, sans-serif;
+    font-size: 60;
+    color: #ffffff;
+    text-align: left;
+    margin-top: 0px;
+    margin-bottom: 5px;
+    border: #1f272e;
+    background: #1f272e;
+    padding-bottom: 0px;
+    padding-top: 145px;
+    padding-left: 21%;
+    text-decoration-line: underline;
+    text-decoration-color: #0099ff;
+    text-underline-offset: 8px;
+}
+
+h2 {
+    font-family: Raleway, Arial, sans-serif;
+    font-size: 45;
+    color: #ffffff;
+    text-align: center;
+    margin-top: 0px;
+    font-weight: 100;
+    text-align: left;
+    margin-left: 2%;
+    margin-bottom: 3;
+}
